@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aathmika❤
 - 🌱 I’m currently learning how to correct her📚
 - 💞️ I’m looking to collaborate with her📷
-- 📫 leostelon@rendamarket.com
+- 📫 leostelon17@gmail.com
 
 <!---
 leostelon/leostelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
