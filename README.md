@@ -8,7 +8,7 @@
 - 📫 leostelon17@gmail.com
 
 💻 Here's a few of the projects I'm working on:
-[cronmarket.com](https://daggle.xyz) - Distributed compute marketplace.
+[daggle.xyz](https://daggle.xyz) - Distributed compute marketplace.
 
 ✨ You can follow me on Twitter [@leostelon](https://twitter.com/leostelon)
 
