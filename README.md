@@ -5,7 +5,9 @@
 - 📫 leo@17andblack.com
 
 💻 Here are a few of the projects I'm working on:
+
 [ziropay.io](https://ziropay.io) - Crypto payment gateway.
+
 [daggle.xyz](https://daggle.xyz) - Distributed compute marketplace.
 
 ✨ You can follow me on Twitter [@leostelon](https://twitter.com/leostelon)
