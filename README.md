@@ -1,13 +1,11 @@
 <h3>👋 Hi, I’m @leostelon</h3>
 
-* 🧑‍💻 Software Engineer
-* 👀 I’m interested in Startups
-* 🌱 I’m currently learning to build to BlockChain🔗
-* 👯 I’m looking to collaborate on open source tools that empower individuals to solve problems and learn.
-* ⚡ Fun fact: I like good stationery and write with fountain pens.
+* Fullstack dev, primarily into web3🌌
 - 📫 leostelon17@gmail.com
+- 📫 leo@17andblack.com
 
-💻 Here's a few of the projects I'm working on:
+💻 Here are a few of the projects I'm working on:
+[ziropay.io](https://ziropay.io) - Crypto payment gateway.
 [daggle.xyz](https://daggle.xyz) - Distributed compute marketplace.
 
 ✨ You can follow me on Twitter [@leostelon](https://twitter.com/leostelon)
